@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'invitation';
+  birthday = new Date(1992,0,4);
 }

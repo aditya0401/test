@@ -1,0 +1,44 @@
+.invitationHeader{
+    background-color: orange;
+}
+.listItem {
+    background-color: darkgrey;
+}
+.no-padding{
+    padding: 0px;
+}
+.mat-list-base{
+    padding-top: 0px !important;
+}
+.invitationHeader h2{
+    margin-bottom: 0px !important;
+}
+.invitationHeader{
+    padding: 10px;
+}
+.sideContainer{
+    padding: 0px;
+}
+.listItem{
+    padding-left: 20px !important;
+}
+.listItem:hover{
+    background-color: orange;
+}
+.listItem a{
+    color: Black;
+    text-decoration: none;
+}
+.listItem a:hover{
+    color: red;
+    cursor: pointer;
+    font-weight: 500;
+    text-decoration: none;
+}
+.sideContainer{
+    background-color: darkgrey;
+}
+.rightHeaderDiv{
+    text-align: right;
+    padding: 10px;
+}
